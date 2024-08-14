@@ -1,4 +1,4 @@
-FILEPATH = 'todos'
+FILEPATH = 'todos.txt'
 
 def get_todos(filepath=FILEPATH):
     """ Retrives the content of the file specified as a todos list """
